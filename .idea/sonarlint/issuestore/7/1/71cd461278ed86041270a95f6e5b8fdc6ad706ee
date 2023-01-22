@@ -1,0 +1,9 @@
+
+pkotlin:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‚®ë ÿÿÿÿÿ
+Fkotlin:S108í")Either remove or fill this block of code.(¿ŞŞÓüÿÿÿÿ
+Lkotlin:S1066Í".Merge this "if" statement with the nested one.(ŒŒÅ¼ÿÿÿÿÿ
+okotlin:S117Ü"RRename this local variable to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(š·‹èûÿÿÿÿ
+jkotlin:S117ø"MRename this parameter to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(ÌÇ©Áúÿÿÿÿ
+ikotlin:S117."RRename this local variable to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(©Ç®È
+lkotlin:S100+"PRename function "ImagesPath" to match the regular expression ^[a-z][a-zA-Z0-9]*$(Û”í§üÿÿÿÿ
+jkotlin:S117€"MRename this parameter to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(™Ç§úÿÿÿÿ

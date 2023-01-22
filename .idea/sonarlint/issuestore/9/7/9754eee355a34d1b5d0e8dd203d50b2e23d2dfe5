@@ -1,0 +1,9 @@
+
+ikotlin:S101l"RRename class "space_listener" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(÷¹œ‹
+skotlin:S1186†"ZAdd a nested comment explaining why this function is empty or complete the implementation.(ø‚ó¹
+6kotlin:S125£"Remove this commented out code.(ŒÒÛn
+okotlin:S101{"SRename class "corner_listener" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(àóå•øÿÿÿÿ
+kkotlin:S3776 "RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(©ùõÎ
+rkotlin:S1186s"ZAdd a nested comment explaining why this function is empty or complete the implementation.(Š„úî
+skotlin:S1186‚"ZAdd a nested comment explaining why this function is empty or complete the implementation.(Š„úî
+rkotlin:S1186v"ZAdd a nested comment explaining why this function is empty or complete the implementation.(ø‚ó¹

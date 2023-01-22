@@ -1,0 +1,70 @@
+
+<kotlin:S125´"Remove this commented out code.(Òí”æùÿÿÿÿ
+skotlin:S1186´"ZAdd a nested comment explaining why this function is empty or complete the implementation.(Š„úî
+skotlin:S1186œ"ZAdd a nested comment explaining why this function is empty or complete the implementation.(ø‚ó¹
+jkotlin:S117Î"RRename this local variable to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(°ë˜õ
+ekotlin:S117ú"MRename this parameter to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(£Ô±…
+tkotlin:S101»"WRename class "brightness_listener" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‹ØÚ€ýÿÿÿÿ
+skotlin:S1186§"ZAdd a nested comment explaining why this function is empty or complete the implementation.(Š„úî
+lkotlin:S1871Ž"NThis branch's code block is the same as the block for the branch on line 1798.(‚½Ðýüÿÿÿÿ
+Wkotlin:S1479ô"9Reduce the number of when branches from 31 to at most 30.(Ð†Ä«ûÿÿÿÿ
+skotlin:S1186Ñ"ZAdd a nested comment explaining why this function is empty or complete the implementation.(Š„úî
+Lkotlin:S1066â".Merge this "if" statement with the nested one.(ªíÂÌüÿÿÿÿ
+lkotlin:S1871¼"NThis branch's code block is the same as the block for the branch on line 1415.(±ß–ûÿÿÿÿ
+okotlin:S117ž"RRename this local variable to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(â¼ùÁûÿÿÿÿ
+ikotlin:S117î"RRename this local variable to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(²€ƒ
+skotlin:S1186í"ZAdd a nested comment explaining why this function is empty or complete the implementation.(Š„úî
+lkotlin:S1871î"NThis branch's code block is the same as the block for the branch on line 1638.(‚½Ðýüÿÿÿÿ
+skotlin:S1186Õ"ZAdd a nested comment explaining why this function is empty or complete the implementation.(ø‚ó¹
+7kotlin:S125Ç"Remove this commented out code.(ó•†”
+Fkotlin:S1066Û".Merge this "if" statement with the nested one.(’¬ŽK
+okotlin:S117€"RRename this local variable to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(Ü¹Úàýÿÿÿÿ
+okotlin:S100Í
+"RRename function "HideStickers" to match the regular expression ^[a-z][a-zA-Z0-9]*$(’è£Ûúÿÿÿÿ
+rkotlin:S101è"ZRename class "effectWeather_listener" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Æ›¡š
+Hkotlin:S1656ö"/Remove or correct this useless self-assignment.(Ë„Œý
+skotlin:S1186Â"ZAdd a nested comment explaining why this function is empty or complete the implementation.(Š„úî
+pkotlin:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(‚®ë ÿÿÿÿÿ
+skotlin:S1186™"ZAdd a nested comment explaining why this function is empty or complete the implementation.(Š„úî
+jkotlin:S100Ñ"RRename function "filter_apply" to match the regular expression ^[a-z][a-zA-Z0-9]*$(‘Ô¹ì
+ekotlin:S117Ì"MRename this parameter to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(´ãü›
+fkotlin:S1871Ö"MThis branch's code block is the same as the block for the branch on line 458.(å¥ž‡
+skotlin:S1186ß"ZAdd a nested comment explaining why this function is empty or complete the implementation.(Š„úî
+7kotlin:S125÷"Remove this commented out code.(Ó¨ ±
+okotlin:S117À"RRename this local variable to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(ŸÉ¤ÿýÿÿÿÿ
+okotlin:S101®"WRename class "saturation_listener" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ñçºÄ
+fkotlin:S1871±"MThis branch's code block is the same as the block for the branch on line 421.(å¥ž‡
+okotlin:S117›"RRename this local variable to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(ëóÇþÿÿÿÿ
+lkotlin:S101’"TRename class "adjust1_listener" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(†¿åÜ
+ekotlin:S117ú"MRename this parameter to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(£Ô±…
+mkotlin:S101£
+"PRename class "Async_Filter" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÿžœþøÿÿÿÿ
+Hkotlin:S1656–"/Remove or correct this useless self-assignment.(Ë„Œý
+okotlin:S117Ï"RRename this local variable to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(öþàžüÿÿÿÿ
+skotlin:S1186ª"ZAdd a nested comment explaining why this function is empty or complete the implementation.(ø‚ó¹
+7kotlin:S125ˆ"Remove this commented out code.(£ÛöŽ
+hkotlin:S101 "PRename class "hue_listener" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ŸêÚÛ
+skotlin:S1186Å"ZAdd a nested comment explaining why this function is empty or complete the implementation.(ø‚ó¹
+jkotlin:S117"RRename this local variable to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(§± ²
+okotlin:S117þ"RRename this local variable to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(öþàžüÿÿÿÿ
+skotlin:S1186·"ZAdd a nested comment explaining why this function is empty or complete the implementation.(ø‚ó¹
+lkotlin:S101“"ORename class "creaate_bmp" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÿã¤”øÿÿÿÿ
+skotlin:S1186ñ"ZAdd a nested comment explaining why this function is empty or complete the implementation.(ø‚ó¹
+pkotlin:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¦®€Ìÿÿÿÿÿ
+ekotlin:S117ú"MRename this parameter to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(£Ô±…
+gkotlin:S1871ó"NThis branch's code block is the same as the block for the branch on line 1091.(å¥ž‡
+kkotlin:S1871Á"MThis branch's code block is the same as the block for the branch on line 315.(°ç³éÿÿÿÿÿ
+kkotlin:S101†"SRename class "border_listener" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ø«ÿŽ
+skotlin:S1186‹"ZAdd a nested comment explaining why this function is empty or complete the implementation.(Š„úî
+pkotlin:S101É"XRename class "effectLight_listener" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(©Àº“
+jkotlin:S117º"RRename this local variable to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(ô™¶¨
+skotlin:S1186Ž"ZAdd a nested comment explaining why this function is empty or complete the implementation.(ø‚ó¹
+jkotlin:S117Ù"RRename this local variable to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(°ë˜õ
+kkotlin:S1871©"MThis branch's code block is the same as the block for the branch on line 673.(‚½Ðýüÿÿÿÿ
+jkotlin:S117‚"RRename this local variable to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(‡Ùþ·
+okotlin:S117¶"RRename this local variable to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(ÂÕ«¾üÿÿÿÿ
+wkotlin:S101Ú"ZRename class "effectTexture_listener" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(žÒíšþÿÿÿÿ
+fkotlin:S1871"MThis branch's code block is the same as the block for the branch on line 379.(å¥ž‡
+skotlin:S1186ã"ZAdd a nested comment explaining why this function is empty or complete the implementation.(ø‚ó¹
+pkotlin:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¶Á»¬þÿÿÿÿ
+okotlin:S117µ"RRename this local variable to match the regular expression "^[_a-z][a-zA-Z0-9]*$".(åûÒ¨øÿÿÿÿ
